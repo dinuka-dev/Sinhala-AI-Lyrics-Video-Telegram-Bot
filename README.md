@@ -1,4 +1,4 @@
-# Sinhala Lyric Video Generator
+# AI-Powered Sinhala Lyrics Video Generator
 
 A Python-based application that creates animated lyric videos with Studio Ghibli-style backgrounds from Spotify tracks. The project works as a Telegram bot.
 
