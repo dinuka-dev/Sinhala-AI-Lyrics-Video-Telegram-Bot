@@ -1,0 +1,6 @@
+openai==1.93.0
+python-dotenv==1.0.1
+moviepy==1.0.3
+opencv-python==4.11.0.86
+pillow==11.0.0
+python-telegram-bot==22.0
