@@ -245,28 +245,6 @@ This project is for educational purposes. Ensure you comply with:
 - OpenAI's Usage Policies
 - Copyright laws for music and images
 
-## 🎥 More Examples
-
-### Video Gallery
-
-| Style | Preview | Description |
-|-------|---------|-------------|
-| Lyrics-Based | ![Preview 1](examples/preview1.png) | AI-generated background from song context |
-| Raw to Ghibli | ![Preview 2](examples/preview2.png) | Photo converted to cartoon style |
-| Character Scene | ![Preview 3](examples/preview3.png) | Person performing on Ghibli-style stage |
-
-### Font Variations
-
-The application supports 5 different Sinhala fonts:
-
-| Font | Sample | Style |
-|------|--------|-------|
-| Font 1 | ![Font 1](examples/font1_sample.png) | Classic Sinhala |
-| Font 2 | ![Font 2](examples/font2_sample.png) | Modern Style |
-| Font 3 | ![Font 3](examples/font3_sample.png) | Bold Display |
-| Font 4 | ![Font 4](examples/font4_sample.png) | Elegant Script |
-| Font 5 | ![Font 5](examples/font5_sample.png) | Contemporary |
-
 ## Support
 
 For issues and questions:
